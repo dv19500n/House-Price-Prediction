@@ -102,4 +102,4 @@ plt.bar(models, PE_scores)
 plt.title('Model Comparison - Percent Error Score')
 plt.ylabel('Percent Error')
 plt.xticks(rotation=45)
-plt.show
+plt.show()
